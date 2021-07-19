@@ -1,4 +1,4 @@
-# TSF Web Development Internship, Task 1 - Online Banking System website  
+# Online Banking System website for TSF Web Development Internship  
   
 Website hosted [here](https://tsf-grip-website.000webhostapp.com/) on 000webhost.  
   
